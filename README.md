@@ -1,4 +1,4 @@
-# hello-pentago
+# pentago
 Pentago game created on Racket. 
 
 ;;Pentago is a two player game, similar to tic-tac-toe. 
